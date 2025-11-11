@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>workermanage</class>
+ <widget class="QMainWindow" name="workermanage">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>智慧小区管理系统</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="ownerManageMenu">
+    <property name="title">
+     <string>业主管理</string>
+    </property>
+    <widget class="QMenu" name="menu">
+     <property name="title">
+      <string>业主登记</string>
+     </property>
+     <addaction name="addHouseAct"/>
+     <addaction name="addOwnerAct"/>
+    </widget>
+    <addaction name="showOwnerAct"/>
+    <addaction name="alterOwnerAct"/>
+    <addaction name="menu"/>
+   </widget>
+   <widget class="QMenu" name="carStationManageMenu">
+    <property name="title">
+     <string>车位管理</string>
+    </property>
+    <addaction name="showCarStationAct"/>
+    <addaction name="addCarStationAct"/>
+    <addaction name="alterCarStationAct"/>
+    <addaction name="delCarStationAct"/>
+    <addaction name="carStationRenAct"/>
+   </widget>
+   <widget class="QMenu" name="paymentManageMenu">
+    <property name="title">
+     <string>缴费管理</string>
+    </property>
+    <addaction name="priceManageAct"/>
+    <addaction name="payInfoAct"/>
+    <addaction name="payAct"/>
+   </widget>
+   <widget class="QMenu" name="issueManageMenu">
+    <property name="title">
+     <string>故障管理</string>
+    </property>
+    <addaction name="issueShowAct"/>
+    <addaction name="issueRepairAct"/>
+   </widget>
+   <widget class="QMenu" name="hrManageMenu">
+    <property name="title">
+     <string>人事管理</string>
+    </property>
+    <addaction name="freeAct"/>
+    <addaction name="freeConfirmAct"/>
+    <addaction name="attendAct"/>
+   </widget>
+   <addaction name="ownerManageMenu"/>
+   <addaction name="carStationManageMenu"/>
+   <addaction name="paymentManageMenu"/>
+   <addaction name="issueManageMenu"/>
+   <addaction name="hrManageMenu"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="showOwnerAct"/>
+   <addaction name="alterOwnerAct"/>
+   <addaction name="addOwnerAct"/>
+   <addaction name="delOwnerAct"/>
+   <addaction name="addHouseAct"/>
+   <addaction name="separator"/>
+   <addaction name="showCarStationAct"/>
+   <addaction name="addCarStationAct"/>
+   <addaction name="alterCarStationAct"/>
+   <addaction name="delCarStationAct"/>
+   <addaction name="carStationRenAct"/>
+   <addaction name="separator"/>
+   <addaction name="priceManageAct"/>
+   <addaction name="payInfoAct"/>
+   <addaction name="payAct"/>
+   <addaction name="separator"/>
+   <addaction name="issueShowAct"/>
+   <addaction name="issueRepairAct"/>
+   <addaction name="separator"/>
+   <addaction name="freeAct"/>
+   <addaction name="freeConfirmAct"/>
+   <addaction name="attendAct"/>
+   <addaction name="separator"/>
+  </widget>
+  <action name="showOwnerAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/show.png</normaloff>:/resources/image/show.png</iconset>
+   </property>
+   <property name="text">
+    <string>业主查询</string>
+   </property>
+  </action>
+  <action name="alterOwnerAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/attend.png</normaloff>:/resources/image/attend.png</iconset>
+   </property>
+   <property name="text">
+    <string>业主修改</string>
+   </property>
+  </action>
+  <action name="addHouseAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/houses.png</normaloff>:/resources/image/houses.png</iconset>
+   </property>
+   <property name="text">
+    <string>房产登记</string>
+   </property>
+  </action>
+  <action name="addOwnerAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/add.png</normaloff>:/resources/image/add.png</iconset>
+   </property>
+   <property name="text">
+    <string>成员登记</string>
+   </property>
+  </action>
+  <action name="showCarStationAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/carstation1.png</normaloff>:/resources/image/carstation1.png</iconset>
+   </property>
+   <property name="text">
+    <string>查看车位信息</string>
+   </property>
+  </action>
+  <action name="addCarStationAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/deladdcarstation.png</normaloff>:/resources/image/deladdcarstation.png</iconset>
+   </property>
+   <property name="text">
+    <string>录入车位信息</string>
+   </property>
+  </action>
+  <action name="alterCarStationAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/carstation.png</normaloff>:/resources/image/carstation.png</iconset>
+   </property>
+   <property name="text">
+    <string>修改车位信息</string>
+   </property>
+  </action>
+  <action name="delCarStationAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/addcarstation.png</normaloff>:/resources/image/addcarstation.png</iconset>
+   </property>
+   <property name="text">
+    <string>删除车位信息</string>
+   </property>
+  </action>
+  <action name="carStationRenAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/rentcarstation.png</normaloff>:/resources/image/rentcarstation.png</iconset>
+   </property>
+   <property name="text">
+    <string>车位出租</string>
+   </property>
+  </action>
+  <action name="priceManageAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/price.png</normaloff>:/resources/image/price.png</iconset>
+   </property>
+   <property name="text">
+    <string>价格维护</string>
+   </property>
+  </action>
+  <action name="payInfoAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/paymanage.png</normaloff>:/resources/image/paymanage.png</iconset>
+   </property>
+   <property name="text">
+    <string>缴费查询</string>
+   </property>
+  </action>
+  <action name="payAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/pay.png</normaloff>:/resources/image/pay.png</iconset>
+   </property>
+   <property name="text">
+    <string>收费</string>
+   </property>
+  </action>
+  <action name="issueShowAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/issuerepair.png</normaloff>:/resources/image/issuerepair.png</iconset>
+   </property>
+   <property name="text">
+    <string>故障查询</string>
+   </property>
+  </action>
+  <action name="issueRepairAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/issueshow.png</normaloff>:/resources/image/issueshow.png</iconset>
+   </property>
+   <property name="text">
+    <string>故障维修</string>
+   </property>
+  </action>
+  <action name="freeAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/attend.png</normaloff>:/resources/image/attend.png</iconset>
+   </property>
+   <property name="text">
+    <string>请假</string>
+   </property>
+  </action>
+  <action name="freeConfirmAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/attend.png</normaloff>:/resources/image/attend.png</iconset>
+   </property>
+   <property name="text">
+    <string>销假</string>
+   </property>
+  </action>
+  <action name="attendAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/attend.png</normaloff>:/resources/image/attend.png</iconset>
+   </property>
+   <property name="text">
+    <string>月度出勤</string>
+   </property>
+  </action>
+  <action name="delOwnerAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/del.png</normaloff>:/resources/image/del.png</iconset>
+   </property>
+   <property name="text">
+    <string>删除业主</string>
+   </property>
+   <property name="toolTip">
+    <string>删除业主</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="../resources/resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

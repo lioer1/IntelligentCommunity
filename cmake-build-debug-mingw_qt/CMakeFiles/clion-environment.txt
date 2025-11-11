@@ -1,0 +1,4 @@
+ToolSet: 6.0 w64 (local)@D:\SoftWare\Editor\QT5.14.2\Tools\mingw730_32
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=D:/SoftWare/Editor/CLion 2023.3.6/bin/ninja/win/x64/ninja.exe

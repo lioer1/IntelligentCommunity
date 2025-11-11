@@ -1,0 +1,475 @@
+{
+	"BUILD_DIR" : "D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/IntelligentCommunity2_autogen",
+	"CMAKE_BINARY_DIR" : "D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3",
+	"CMAKE_EXECUTABLE" : "D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/CMakeLists.txt",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystem.cmake.in",
+		"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/CMakeFiles/3.27.8/CMakeSystem.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCompilerIdDetection.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/ADSP-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/ARMCC-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/ARMClang-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/AppleClang-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Borland-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Bruce-C-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Compaq-C-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Cray-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Embarcadero-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Fujitsu-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GHS-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/HP-C-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IAR-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Intel-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/LCC-C-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/MSVC-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/NVHPC-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/NVIDIA-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/PGI-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/PathScale-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/SCO-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/SDCC-C-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/SunPro-C-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/TI-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Tasking-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Watcom-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/XL-C-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/XLClang-C-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/zOS-C-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeFindBinUtils.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-FindBinUtils.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCCompiler.cmake.in",
+		"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/CMakeFiles/3.27.8/CMakeCCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Determine-CXX.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCompilerIdDetection.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/ADSP-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/ARMCC-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/ARMClang-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/AppleClang-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Borland-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Cray-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Embarcadero-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Fujitsu-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GHS-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/HP-CXX-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IAR-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Intel-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/MSVC-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/NVHPC-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/NVIDIA-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/PGI-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/PathScale-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/SCO-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/TI-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Tasking-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Watcom-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/XL-CXX-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeFindBinUtils.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-FindBinUtils.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXCompiler.cmake.in",
+		"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineRCCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCCompiler.cmake.in",
+		"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/CMakeFiles/3.27.8/CMakeRCCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCInformation.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestRCCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCompilerCommon.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseImplicitIncludeInfo.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseImplicitLinkInfo.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseLibraryArchitecture.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCompilerCommon.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCCompilerABI.c",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCCompiler.cmake.in",
+		"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/CMakeFiles/3.27.8/CMakeCCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCompilerCommon.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseImplicitIncludeInfo.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseImplicitLinkInfo.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseLibraryArchitecture.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCompilerCommon.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXCompiler.cmake.in",
+		"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5Config.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/resources/resources.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/applycarstation.h",
+			"MU",
+			"WFD7YQQOTJ/moc_applycarstation.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/carstationinfo.h",
+			"MU",
+			"WFD7YQQOTJ/moc_carstationinfo.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/houseinfo.h",
+			"MU",
+			"WFD7YQQOTJ/moc_houseinfo.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/initsystem.h",
+			"MU",
+			"WFD7YQQOTJ/moc_initsystem.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/issueassessment.h",
+			"MU",
+			"WFD7YQQOTJ/moc_issueassessment.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/issueinfo.h",
+			"MU",
+			"WFD7YQQOTJ/moc_issueinfo.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/logindialog.h",
+			"MU",
+			"WFD7YQQOTJ/moc_logindialog.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/managermanage.h",
+			"MU",
+			"WFD7YQQOTJ/moc_managermanage.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/ownerinfo.h",
+			"MU",
+			"WFD7YQQOTJ/moc_ownerinfo.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/ownermanage.h",
+			"MU",
+			"WFD7YQQOTJ/moc_ownermanage.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/ownerpayself.h",
+			"MU",
+			"WFD7YQQOTJ/moc_ownerpayself.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/paymanage.h",
+			"MU",
+			"WFD7YQQOTJ/moc_paymanage.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/pricemanage.h",
+			"MU",
+			"WFD7YQQOTJ/moc_pricemanage.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/setowner.h",
+			"MU",
+			"WFD7YQQOTJ/moc_setowner.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/workerfree.h",
+			"MU",
+			"WFD7YQQOTJ/moc_workerfree.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/workerinfo.h",
+			"MU",
+			"WFD7YQQOTJ/moc_workerinfo.cpp",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/workermanage.h",
+			"MU",
+			"WFD7YQQOTJ/moc_workermanage.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/IntelligentCommunity2_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/IntelligentCommunity2_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_SQL_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src",
+		"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/include",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/include/QtCore",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/mkspecs/win32-g++",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/include/QtWidgets",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/include/QtGui",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/include/QtANGLE",
+		"D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/include/QtSql",
+		"D:/SoftWare/Editor/QT5.14.2/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include/c++",
+		"D:/SoftWare/Editor/QT5.14.2/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32",
+		"D:/SoftWare/Editor/QT5.14.2/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward",
+		"D:/SoftWare/Editor/QT5.14.2/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include",
+		"D:/SoftWare/Editor/QT5.14.2/Tools/mingw730_32/lib/gcc/i686-w64-mingw32/7.3.0/include-fixed",
+		"D:/SoftWare/Editor/QT5.14.2/Tools/mingw730_32/i686-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/SoftWare/Editor/QT5.14.2/Tools/mingw730_32/bin/c++.exe",
+		"-std=gnu++1z",
+		"-dM",
+		"-E",
+		"-c",
+		"D:/SoftWare/Editor/CLion 2023.3.6/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/IntelligentCommunity2_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/qrc_resources.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 24,
+	"PARSE_CACHE_FILE" : "D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/CMakeFiles/IntelligentCommunity2_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/SoftWare/Editor/QT5.14.2/5.14.2/mingw73_32/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 14,
+	"SETTINGS_FILE" : "D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/CMakeFiles/IntelligentCommunity2_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/applycarstation.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/carstationinfo.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/houseinfo.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/initsystem.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/issueassessment.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/issueinfo.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/logindialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/managermanage.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/ownerinfo.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/ownermanage.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/ownerpayself.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/paymanage.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/pricemanage.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/setowner.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/workerfree.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/workerinfo.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/src/widget/workermanage.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/qrc_resources.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

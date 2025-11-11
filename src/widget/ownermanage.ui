@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ownermanage</class>
+ <widget class="QMainWindow" name="ownermanage">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>716</width>
+    <height>489</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>智慧小区管理系统</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>716</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="myCarStationMenu">
+    <property name="title">
+     <string>我的车位</string>
+    </property>
+    <addaction name="applyCarStationAct"/>
+    <addaction name="showCarStationAct"/>
+   </widget>
+   <widget class="QMenu" name="payManageMenu">
+    <property name="title">
+     <string>缴费管理</string>
+    </property>
+    <addaction name="payShowAct"/>
+    <addaction name="payAct"/>
+   </widget>
+   <widget class="QMenu" name="issueManageAct">
+    <property name="title">
+     <string>故障报修</string>
+    </property>
+    <addaction name="issueReportAct"/>
+    <addaction name="issueProcessAct"/>
+    <addaction name="issueEvaluateAct"/>
+   </widget>
+   <addaction name="myCarStationMenu"/>
+   <addaction name="payManageMenu"/>
+   <addaction name="issueManageAct"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="applyCarStationAct"/>
+   <addaction name="showCarStationAct"/>
+   <addaction name="separator"/>
+   <addaction name="payShowAct"/>
+   <addaction name="payAct"/>
+   <addaction name="separator"/>
+   <addaction name="issueReportAct"/>
+   <addaction name="issueProcessAct"/>
+   <addaction name="issueEvaluateAct"/>
+  </widget>
+  <action name="applyCarStationAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/carstation1.png</normaloff>:/resources/image/carstation1.png</iconset>
+   </property>
+   <property name="text">
+    <string>车位申请</string>
+   </property>
+  </action>
+  <action name="showCarStationAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/rentcarstation.png</normaloff>:/resources/image/rentcarstation.png</iconset>
+   </property>
+   <property name="text">
+    <string>车位查看</string>
+   </property>
+  </action>
+  <action name="payShowAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/pay.png</normaloff>:/resources/image/pay.png</iconset>
+   </property>
+   <property name="text">
+    <string>缴费查询</string>
+   </property>
+  </action>
+  <action name="payAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/price.png</normaloff>:/resources/image/price.png</iconset>
+   </property>
+   <property name="text">
+    <string>自助缴费</string>
+   </property>
+  </action>
+  <action name="issueReportAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/issuerepair.png</normaloff>:/resources/image/issuerepair.png</iconset>
+   </property>
+   <property name="text">
+    <string>故障报修</string>
+   </property>
+  </action>
+  <action name="issueProcessAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/issueshow.png</normaloff>:/resources/image/issueshow.png</iconset>
+   </property>
+   <property name="text">
+    <string>维修进度</string>
+   </property>
+  </action>
+  <action name="issueEvaluateAct">
+   <property name="icon">
+    <iconset resource="../resources/resources.qrc">
+     <normaloff>:/resources/image/houses.png</normaloff>:/resources/image/houses.png</iconset>
+   </property>
+   <property name="text">
+    <string>维修评价</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="../resources/resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

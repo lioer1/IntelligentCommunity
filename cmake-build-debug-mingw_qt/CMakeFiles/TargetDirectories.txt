@@ -1,0 +1,4 @@
+D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/CMakeFiles/IntelligentCommunity3.dir
+D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/CMakeFiles/edit_cache.dir
+D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/CMakeFiles/rebuild_cache.dir
+D:/SoftWare/CodeProgram/Clion/IntelligentCommunity3/cmake-build-debug-mingw_qt/CMakeFiles/IntelligentCommunity3_autogen.dir
