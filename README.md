@@ -83,13 +83,13 @@
 
 # 四、团队详细分工
 
-| 成员 | 负责模块                       | 核心工作内容                                                 |  操作权限角色  |                           涉及文件                           | 关联数据库表                      |
+| 成员 | 负责模块                       | 核心工作内容                                                 |  操作权限角色  |涉及文件| 关联数据库表                      |
 | ---- | ------------------------------ | ------------------------------------------------------------ | :------------: | :----------------------------------------------------------: | --------------------------------- |
-| 1    | 管理员登录、人事管理、请假出勤 | 1.多角色登录；2. 工作人员信息的增删改查；3. 管理员请假审批、月度出勤 |     管理员     |              logindialogworkerinfomanagermanage              | workerworkerattend                |
-| 2    | 系统初始化、业主管理           | 1.系统初始化；2. 业主信息的增删改查                          | 管理员工作人员 |         initsystemmanagermanageownerinfoworkermanage         | houseowner                        |
-| 3    | 房产信息、车位管理、缴费管理   | 1. 房屋信息的添加与查询；2. 车位信息的增删改查与出租；3. 费用信息的添加与查询 |    工作人员    |   houseinfocarStationInfoworkermanagepricemanagepaymanage    | housemycarstationpricepricerecord |
-| 4    | 故障管理、人事管理             | 1. 故障信息的查询与修改；2.工作人员的请假申请，销假与出勤查询； |    工作人员    |              workermanageworkerFreeworkerClock               | errorinfoworkerattend             |
-| 5    | 车位管理、缴费管理、故障报修   | 1.车位信息的添加与查询；2.费用信息的添加与查询3.故障与意见的提交 |      业主      | applycarstationownermanageownerpayselfownermanageissueinfoissueassessment | mycarstationpricerecorderrorinfo  |
+| 1    | 管理员登录、人事管理、请假出勤 | 1.多角色登录；2. 工作人员信息的增删改查；3. 管理员请假审批、月度出勤 |     管理员     |logindialog,workerinfo,managermanage| worker,workerattend                |
+| 2    | 系统初始化、业主管理           | 1.系统初始化；2. 业主信息的增删改查                          | 管理员工作人员 |initsystem,managermanage,ownerinfo,workermanage|houseowner|
+| 3    | 房产信息、车位管理、缴费管理   | 1. 房屋信息的添加与查询；2. 车位信息的增删改查与出租；3. 费用信息的添加与查询 |    工作人员    |houseinfo,carStationInfo,workermanage,pricemanage,paymanage|house,mycarstation,price,pricerecord |
+| 4    | 故障管理、人事管理             | 1. 故障信息的查询与修改；2.工作人员的请假申请，销假与出勤查询； |    工作人员    |workermanage,workerFree,workerClock|errorinfo,workerattend|
+| 5    | 车位管理、缴费管理、故障报修   | 1.车位信息的添加与查询；2.费用信息的添加与查询3.故障与意见的提交 |      业主      |applycarstation,ownermanage,ownerpayself,ownermanage,issueinfo,issueassessment|mycarstation,pricerecord,errorinfo|
 
 # 五、系统功能演示
 
